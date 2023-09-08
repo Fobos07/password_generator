@@ -40,11 +40,3 @@ This is a PyQt5-based password generator and manager application that allows use
 4. **Delete Password**:
    - Select a saved password from the list.
    - Click the "Delete" button to remove the selected password.
-
-## Screenshots
-
-[Insert screenshots or GIFs of your application here]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
