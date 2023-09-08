@@ -18,7 +18,7 @@ This is a PyQt5-based password generator and manager application that allows use
 
 1. Clone the repository to your local machine.
 2. Ensure you have the required dependencies installed (PyQt5 and pyperclip).
-3. Run the `main.py` script to launch the application.
+3. Run the `password_generator.py` script to launch the application.
 
 ## Usage Instructions
 
