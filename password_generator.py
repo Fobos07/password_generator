@@ -7,16 +7,16 @@ copy passwords to the clipboard, and delete saved passwords.
 It also displays a list of saved passwords for quick access.
 
 Requirements:
-- PyQt6 for GUI
+- PyQt5 for GUI
 - pyperclip for clipboard operations
 """
 
 from random import choice
 import json
 
-from PyQt6 import uic
-from PyQt6.QtGui import QIcon
-from PyQt6.QtWidgets import QApplication, QMessageBox, QInputDialog
+from PyQt5 import uic
+from PyQt5.QtGui import QIcon
+from PyQt5.QtWidgets import QApplication, QMessageBox, QInputDialog
 
 import pyperclip
 
