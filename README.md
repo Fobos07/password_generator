@@ -1,6 +1,6 @@
 # Password Generator and Manager
 
-This is a PyQt5-based password generator and manager application that allows users to generate strong passwords, save them with custom names, copy passwords to the clipboard, and delete saved passwords. It also displays a list of saved passwords for quick access.
+This is a PyQt6-based password generator and manager application that allows users to generate strong passwords, save them with custom names, copy passwords to the clipboard, and delete saved passwords. It also displays a list of saved passwords for quick access.
 
 ## Features
 
@@ -11,13 +11,13 @@ This is a PyQt5-based password generator and manager application that allows use
 
 ## Requirements
 
-- PyQt5 for the graphical user interface.
+- PyQt6 for the graphical user interface.
 - pyperclip for clipboard operations.
 
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Ensure you have the required dependencies installed (PyQt5 and pyperclip).
+2. Ensure you have the required dependencies installed (PyQt6 and pyperclip).
 3. Run the `main.py` script to launch the application.
 
 ## Usage Instructions
