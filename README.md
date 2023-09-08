@@ -1,4 +1,3 @@
-# password_generator
 # Password Generator and Manager
 
 This is a PyQt5-based password generator and manager application that allows users to generate strong passwords, save them with custom names, copy passwords to the clipboard, and delete saved passwords. It also displays a list of saved passwords for quick access.
